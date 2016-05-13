@@ -3,4 +3,6 @@ dive into github
 
 Hi All,
 
-familiarizing with github 
+familiarized with github
+
+Thank you
